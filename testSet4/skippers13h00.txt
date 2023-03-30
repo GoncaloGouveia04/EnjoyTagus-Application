@@ -1,0 +1,10 @@
+Company:
+Tagus Sailing
+Day: 
+07:11:2022
+Time:
+17:00
+Skippers:
+Ana Amaral, (english; french; portuguese), 1*, 40, price, 20, 12, (08:11:2022, 12:00)
+Carlos Santos, (english; portuguese), 3*, 100, speed, 40, 14, (07:11:2022, 18:00)
+Jorge Costa, (english; portuguese; spanish), 2*, 80, price, 65, 32, (07:11:2022, 12:00)

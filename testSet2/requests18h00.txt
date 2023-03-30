@@ -1,0 +1,11 @@
+Company:
+Tagus Sailing
+Day: 
+10:11:2020
+Time:
+18:00
+Requests:
+Mario Scorcese, (english; italian), 1*, comfort, 2
+Stanislav Osenov, (english; russian), 1*, price, 2
+Pierre Martin, (french; german), 3*, comfort, 1
+Paco Moreno, (spanish), 2*, price, 4

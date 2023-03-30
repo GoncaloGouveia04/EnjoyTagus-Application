@@ -1,0 +1,10 @@
+Company:
+Tagus Sailing
+Day: 
+10:11:2022
+Time:
+18:30
+Skippers:
+Afonso Amaro, (english; french; portuguese; spanish), 2*, 50, price, 50, 39, (11:11:2022, 12:00)
+Carla Teixeira, (english; spanish; portuguese), 1*, 50, price, 20, 20, (11:11:2022, 12:00)
+Diogo Domingues, (french; portuguese), 3*, 120, comfort, 40, 25, (10:11:2022, 19:30)

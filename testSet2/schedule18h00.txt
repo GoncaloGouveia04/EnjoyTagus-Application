@@ -1,0 +1,10 @@
+Company:
+Tagus Sailing
+Day: 
+10:11:2022
+Time:
+18:00
+Schedule:
+10:11:2022, 16:00, 2, Diogo Domingues, 240, Fernando Oliveira
+10:11:2022, 19:00, 1, Afonso Amaro, 50, Hans Mathiesen
+11:11:2022, 08:00, 4, Carla Teixeira, 200, Charles Bronson

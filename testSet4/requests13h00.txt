@@ -1,0 +1,11 @@
+Company:
+Tagus Sailing
+Day: 
+07:11:2020
+Time:
+17:00
+Requests:
+Vladislav Maraev, (english; russian), 2*, price, 2
+John Rosner, (english), 1*, comfort, 2
+François Macron, (french; german), 1*, price, 2
+Ramiro Ramirez, (english; spanish), 3*, speed, 1

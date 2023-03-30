@@ -1,0 +1,11 @@
+Company:
+Tagus Sailing
+Day: 
+14:11:2022
+Time:
+10:30
+Skippers:
+Carlota Castro, (english; portuguese), 2*, 50, price, 40, 28, (14:11:2022, 20:00)
+Dinis Soares, (english; french; portuguese), 2*, 50, price, 40, 24, (14:11:2022, 16:00)
+Manuel Bernardes, (french; portuguese), 3*, 200, comfort, 40, 24, (14:11:2022, 14:00)
+Tiago Ferreira, (english; portuguese), 3*, 100, comfort, 60, 34, (14:11:2022, 16:00)
